@@ -8,3 +8,6 @@ The following people have contributed to the classification-banner project
 * Brian Clemens <brianfclemens@gmail.com>
 * Gunnar Hellekson <gunnar@hellekson.com>
 * Kenyon Ralph <kenyon@kenyonralph.com>
+* Ryan Succo <rsucco@live.com>
+* Richard D. Thompson II <rick@rdt2.net>
+* Chris Waltrip <chris@walt.rip>

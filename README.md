@@ -55,8 +55,8 @@ Options should be placed in the `/etc/classification-banner/banner.conf` file.
 * `weight` - Bold or normal (Default: `bold`)
 * `show_top` - Show top banner (Default: `True`)
 * `show_bottom` - Show bottom banner (Default: `True`)
-* `horizontal_resolution` - Manually Set Horiztonal Resolution (OPTIONAL) [if hres is set, vres required]
-* `vertical_resolution` - Manually Set Horiztonal Resolution (OPTIONAL) [if vres is set, hres required]
+* `horizontal_resolution` - Manually Set Horizontal Resolution (OPTIONAL) [if hres is set, vres required]
+* `vertical_resolution` - Manually Set Horizontal Resolution (OPTIONAL) [if vres is set, hres required]
 * `sys_info` - Show user and hostname in the top banner (Default: `False`)
 * `opacity` - Sets opacity - for composted window managers only (OPTIONAL) [float - range 0 .. 1] (Default: `0.75`)
 * `esc` - Enable/Disable the 'ESC to hide' message (Default: `True` (enabled))
